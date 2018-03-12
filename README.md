@@ -1,0 +1,2 @@
+# solving_knapsack_problem_genetic_algorithm
+Problem Komiwojażera dla Algorytmu genetycznego
